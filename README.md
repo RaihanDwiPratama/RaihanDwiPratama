@@ -12,9 +12,10 @@ In the future I will learn about native mobile development and implement it into
 
 ### Tech Stack
 <div align="left">
-  <a href="#"><img align="center" alt="Flutter" title="Flutter" height="30px" src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg"/></a>
+  <a href="#"><img align="center" alt="Flutter" title="Flutter" height="25px" src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg"/></a>
   <a href="#"><img align="center" alt="React Native" title="React Native" height="60px" src="https://cdn.jsdelivr.net/gh/kristerkari/react-native-svg-transformer/images/react-native-logo.png" /></a>
   <a href="#"><img align="center" alt="C++" title="C++" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/></a>
+  <a href="#"><img align="center" alt="MySQL" title="MySQL" height="60px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"/></a>
 </div>
 <br>
 <br>
