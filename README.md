@@ -1,4 +1,4 @@
-### Hi there!👋 I'm Raihan 
+### Hi there👋, I'm Raihan! 
 
 An independent Software Learner who loves creating and learning new technologies on mobile development! I'm focusing on using Flutter and making it the main language for creating a project.
 
