@@ -4,9 +4,9 @@ An independent Software Learner who loves creating and learning new technologies
 
 In the future I will learn about native mobile development and implement it into my projects.
 
-- 🔭 I'm currently interning at M-Knows Consulting in the Apps & iOS Developer division.
+- 🔭 I'm currently interning at M-Knows Consulting in the Apps & iOS Developer division
 - 🌱 I'm currently learning Flutter since July 2023
-- 💬 Ask me about mobile development, databases, data structures.
+- 💬 Ask me about mobile development, databases, data structures
 - 📫 How to reach me: raihanp0308@gmail.com
 - ⚡ Fun fact: I'm a beginner :)
 
