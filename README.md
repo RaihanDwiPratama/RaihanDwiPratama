@@ -11,16 +11,18 @@ In the future I will learn about native mobile development and implement it into
 - ⚡ Fun fact: I'm a beginner :)
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="Flutter" title="Flutter" width="100px" src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" /></a>
-    <a href="#"><img align="left" alt="React Native" title="React Native" width="100px" src="
-  https://cdn.worldvectorlogo.com/logos/react-native-1.svg" /></a>
-  <br>
-  <br>
+<div align="left">
+  <a href="#"><img align="center" alt="Flutter" title="Flutter" height="30px" src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg"/></a>
+  <a href="#"><img align="center" alt="React Native" title="React Native" height="60px" src="https://cdn.jsdelivr.net/gh/kristerkari/react-native-svg-transformer/images/react-native-logo.png" /></a>
+  
+</div>
+<br>
+<br>
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/RaihanDwiPratama">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaihanDwiPratama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaihanDwiPratama&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/RaihanDwiPratama">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaihanDwiPratama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaihanDwiPratama&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
