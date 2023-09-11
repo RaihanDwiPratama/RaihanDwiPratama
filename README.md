@@ -12,6 +12,8 @@ In the future I will learn about native mobile development and implement it into
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Flutter" title="Flutter" width="100px" src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" /></a>
+    <a href="#"><img align="left" alt="React Native" title="React Native" width="100px" src="
+  https://cdn.worldvectorlogo.com/logos/react-native-1.svg" /></a>
   <br>
   <br>
 
