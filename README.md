@@ -1,18 +1,14 @@
-### Hi!👋 I'm Raihan 
+### Hi there!👋 I'm Raihan 
 
+An independent Software Learner who loves creating and learning new technologies on mobile development! I'm focusing on using Flutter and making it the main language for creating a project.
 
-**I'm Raihan Dwi Pratama
+In the future I will learn about native mobile development and implement it into my projects.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm currently interning at M-Knows Consulting in the Apps & iOS Developer division.
+- 🌱 I'm currently learning Flutter since July 2023
+- 💬 Ask me about mobile development, databases, data structures.
+- 📫 How to reach me: raihanp0308@gmail.com
+- ⚡ Fun fact: I'm a beginner :)
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Flutter" title="Flutter" width="100px" src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" /></a>
