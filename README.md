@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!👋 I'm Raihan 
 
 
 **I'm Raihan Dwi Pratama
@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Tech Stack
+  <a href="#"><img align="left" alt="Flutter" title="Flutter" width="100px" src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" /></a>
+  <br>
+  <br>
 
+### Github Statistic
 <p align="left">
 <a href="https://github.com/RaihanDwiPratama">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaihanDwiPratama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
