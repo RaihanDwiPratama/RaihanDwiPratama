@@ -16,6 +16,7 @@ In the future I will learn about native mobile development and implement it into
   <a href="#"><img align="center" alt="React Native" title="React Native" height="60px" src="https://cdn.jsdelivr.net/gh/kristerkari/react-native-svg-transformer/images/react-native-logo.png" /></a>
   <a href="#"><img align="center" alt="C++" title="C++" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/></a>
   <a href="#"><img align="center" alt="MySQL" title="MySQL" height="60px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"/></a>
+  <a href="#"><img align="center" alt="Java" title="Java" height="50px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"/></a>
 </div>
 
 ### Github Statistic
